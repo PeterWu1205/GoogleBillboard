@@ -11,11 +11,9 @@ public void setup()
    	  numb = Double.parseDouble(tenDigits);
    	  first++;
    	  last++;
-   	  System.out.println("false");
    	  if( isPrime(numb) == true);
    	  {
    	  	System.out.println(numb);
-   	  	System.out.println("true");
    	  }
    	}
 
